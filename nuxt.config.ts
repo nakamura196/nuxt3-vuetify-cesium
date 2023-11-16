@@ -6,5 +6,8 @@ export default defineNuxtConfig({
   ssr: false,
   build: {
     transpile: ["vuetify"],
+  },
+  app: {
+    baseURL: "/nuxt3-vuetify-cesium"
   }
 });
