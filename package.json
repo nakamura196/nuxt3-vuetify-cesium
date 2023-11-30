@@ -8,13 +8,13 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "nuxt": "3.8.1"
+    "nuxt": "3.8.2"
   },
   "dependencies": {
     "@mdi/js": "^7.3.67",
     "dotenv": "^16.3.1",
     "sass": "^1.69.5",
     "vue-cesium": "^3.2.4",
-    "vuetify": "^3.4.1"
+    "vuetify": "^3.4.4"
   }
 }
