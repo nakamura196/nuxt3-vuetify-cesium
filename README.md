@@ -1,6 +1,6 @@
 # Nuxt 3 x Cesium
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Sample repository using Nuxt3, Vuetify, and Cesium.
 
 ## Setup
 
